@@ -1,4 +1,4 @@
-### 안녕 나는 아름다운 미모를 가진 개발 공부하는 학생 아니 여신 👋
+### 👋안녕 나는 아름다운 미모를 가진 개발 공부하는 학생 아니 여신 👋
 
 <!--
 **yujin981126/yujin981126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

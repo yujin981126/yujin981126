@@ -1,6 +1,6 @@
 ### 안녕 방가방가 ^^
 ### 나는 아름다운 미모를 가진 개발 공부하는 학생 아니 여신 👋
-
+### <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" style="height:40px; width:120px;">
 <!--
 **yujin981126/yujin981126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-                        <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" style="height:40px; width:120px;"> &nbsp;
+                        ### <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" style="height:40px; width:120px;"> &nbsp;
                         <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="height:40px; width:120px;">
                         <br><br>
                         <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="height:40px; width:110px;"> &nbsp;

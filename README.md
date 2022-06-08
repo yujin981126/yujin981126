@@ -39,10 +39,6 @@
 <img src="https://img.shields.io/badge/Premiere Pro-7952B3?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white" >
 <img src="https://img.shields.io/badge/After Effects-E6007A?style=for-the-badge&logo=Adobe After Effects&logoColor=white" >
 </div>
-
-
-  <br>  <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujin981126&hide=ShaderLab)](https://github.com/yujin981126/github-readme-stats)
   <br>  <br>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin981126)](https://github.com/yujin981126/github-readme-stats)
 

@@ -22,6 +22,14 @@
    </div>
    
 ### 🎨 Design 🎨
+<div>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"> 
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white" >
+<img src="https://img.shields.io/badge/XD-FF3366?style=for-the-badge&logo=Adobe XD&logoColor=white">
+<img src="https://img.shields.io/badge/Dreamweaver-FF61F6?style=for-the-badge&logo=Adobe Dreamweaver&logoColor=white" > 
+<img src="https://img.shields.io/badge/Premiere Pro-7952B3?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white" >
+<img src="https://img.shields.io/badge/After Effects-E6007A?style=for-the-badge&logo=Adobe After Effects&logoColor=white" >
+</div>
 
 <!--
 **yujin981126/yujin981126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

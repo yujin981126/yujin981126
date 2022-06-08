@@ -24,10 +24,6 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
    </div>
-  <div>
-  <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-   </div>
   <br> 
   
 ### 🎨 Design 🎨
@@ -35,6 +31,8 @@
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"> 
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white" >
 <img src="https://img.shields.io/badge/XD-FF3366?style=for-the-badge&logo=Adobe XD&logoColor=white">
+  </div>
+  <div>
 <img src="https://img.shields.io/badge/Dreamweaver-FF61F6?style=for-the-badge&logo=Adobe Dreamweaver&logoColor=white" > 
 <img src="https://img.shields.io/badge/Premiere Pro-7952B3?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white" >
 <img src="https://img.shields.io/badge/After Effects-E6007A?style=for-the-badge&logo=Adobe After Effects&logoColor=white" >

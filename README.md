@@ -1,3 +1,7 @@
+### 🎀 yujin981126 🎀
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyujin981126&count_bg=%23E98E97&title_bg=%23984B4B&icon=&icon_color=%23E7E7E7&title=git-hub&edge_flat=false"/></a>
+
 
 ### 안녕 방가방가 ^^
 ### 나는 아름다운 미모를 가진 개발 공부하는 학생 아니 여신 👋
@@ -35,9 +39,6 @@
 
 
   <br>  <br>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyujin981126&count_bg=%23E98E97&title_bg=%23984B4B&icon=&icon_color=%23E7E7E7&title=git-hub&edge_flat=false"/></a>
-
-
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujin981126&hide=ShaderLab)](https://github.com/yujin981126/github-readme-stats)
   <br>  <br>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin981126)](https://github.com/yujin981126/github-readme-stats)

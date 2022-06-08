@@ -40,7 +40,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin981126)](https://github.com/yujin981126/github-readme-stats)
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 <!--
 **yujin981126/yujin981126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:

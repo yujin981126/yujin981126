@@ -35,6 +35,8 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujin981126)](https://github.com/yujin981126/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin981126)](https://github.com/yujin981126/github-readme-stats)
 <!--
 **yujin981126/yujin981126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:

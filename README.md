@@ -1,6 +1,7 @@
+<div align="center">
 ### 안녕 방가방가 ^^
 ### 나는 아름다운 미모를 가진 개발 공부하는 학생 아니 여신 👋
-
+</div>
 
 
 ### 🖥 Coding 🖥
@@ -30,7 +31,7 @@
 <img src="https://img.shields.io/badge/Premiere Pro-7952B3?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white" >
 <img src="https://img.shields.io/badge/After Effects-E6007A?style=for-the-badge&logo=Adobe After Effects&logoColor=white" >
 </div>
-<div align="center">
+
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyujin981126&count_bg=%23E98E97&title_bg=%23984B4B&icon=&icon_color=%23E7E7E7&title=git-hub&edge_flat=false"/></a>
 
 
@@ -38,7 +39,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin981126)](https://github.com/yujin981126/github-readme-stats)
 
-</div>
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 <!--
 **yujin981126/yujin981126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
